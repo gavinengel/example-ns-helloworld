@@ -1,0 +1,28 @@
+{
+  "ProjectName": "example-ns-helloworld",
+  "ProjectGuid": "914a071c-a62d-4441-9de9-7b01e260d138",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.examplenshelloworld",
+  "DisplayName": "example-ns-helloworld",
+  "Author": "",
+  "Description": "example-ns-helloworld",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.0.0",
+  "Framework": "NativeScript"
+}
